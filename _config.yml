@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Moving Data – Sicherung und Weiterentwicklung einer Wissensbasis zu Unruhestifter:innen und weiteren Akteur:innen in DDR-Kirchenkreisen
+title: Forchungsprojekt Kirchliche Praxis in der DDR
 email: sauer@saw-leipzig.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Sie finden auf dieser Seite gebündelt Informationen zu den Ergebnissen des Projekts 
+  "Kirchliche Praxis in der DDR: Umsetzung einer digitalen Forschungsumgebung zur Bereitstellung und Vernetzung von Quellen und Forschungsdaten"
+  das von April bis Dezember 2023 an der Sächsischen Akamdemie der Wissenschaften durchgeführt wurde. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ddrkige.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ddrkige
 
 # Build settings
 theme: minima
