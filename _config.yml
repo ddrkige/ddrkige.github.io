@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Forchungsprojekt Kirchliche Praxis in der DDR
+title: Forschungsprojekt Kirchliche Praxis in der DDR
 email: sauer@saw-leipzig.de
 description: >- # this means to ignore newlines until "baseurl:"
   Sie finden auf dieser Seite gebündelt Informationen zu den Ergebnissen des Projekts 
