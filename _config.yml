@@ -18,21 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Forschungsprojekt Kirchliche Praxis in der DDR
+title: Forschungsprojekt Kirchliche Praxis in der DDR - Digitale Forschungsumgebung WOKDDR (Widerstand, Opposition und Kirche in der DDR)
 email: sauer@saw-leipzig.de
 description: >- # this means to ignore newlines until "baseurl:"
   Sie finden auf dieser Seite gebündelt Informationen zu den Ergebnissen des Projekts 
   "Kirchliche Praxis in der DDR: Umsetzung einer digitalen Forschungsumgebung zur Bereitstellung und Vernetzung von Quellen und Forschungsdaten"
-  das von April bis Dezember 2023 an der Sächsischen Akamdemie der Wissenschaften durchgeführt wurde. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "ddrkige.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  ddrkige
+  das von April bis Dezember 2023 an der Sächsischen Akamdemie der Wissenschaften durchgeführt wurde.
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'ddrkige.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+github_username: ddrkige
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
